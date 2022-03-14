@@ -26,4 +26,4 @@ We also classify the goods on the basis of region to increase visibility of nich
 * We can integrate Speech to Text Recognition feature to benefit rural people, who are not well versed with tech, in searching and uploading their products.
 
 ### Tech Stack: 
-HTML, CSS, JavaScript, JQuery, BootStrap, MongoDB, Node.js, Express
+HTML, CSS, JavaScript, JQuery, BootStrap, MongoDB, Node.js, ExpressJS
